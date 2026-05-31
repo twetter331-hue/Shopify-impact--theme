@@ -219,46 +219,6 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Le Carbone",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Reconnue pour sa légèreté et sa résistance exceptionnelles, la fibre de carbone offre une protection fiable sans alourdir votre iPhone. Chaque coque révèle un motif unique, pour une finition premium qui allie performance, élégance et légèreté.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -279,6 +239,46 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
+      }
+    },
+    "rich_text_XGiCkt": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_teRefH": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_dRYhNd": {
+          "type": "heading",
+          "settings": {
+            "text": "Carbone",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_DJMWwh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Reconnue pour sa légèreté et sa résistance exceptionnelles, la fibre de carbone offre une protection fiable sans alourdir votre iPhone. Chaque coque révèle un motif unique, pour une finition premium qui allie performance, élégance et légèreté.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_teRefH",
+        "heading_dRYhNd",
+        "richtext_DJMWwh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "press": {
@@ -420,8 +420,8 @@
     "scrolling-text",
     "featured-collection",
     "impact-text",
-    "image-with-text-overlay",
     "before-after-image",
+    "rich_text_XGiCkt",
     "press",
     "multiple-images-with-text",
     "faq"
