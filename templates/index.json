@@ -12,10 +12,9 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "image_zkxH6C": {
+        "image_mrU9Wz": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/coqu_eviolette_ilu.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -33,6 +32,27 @@
             "background_gradient": ""
           }
         },
+        "image_zkxH6C": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/coqu_eviolette_ilu.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "100% Carbone",
+            "title": "Violet",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify://collections",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
         "image_YUhiEW": {
           "type": "image",
           "settings": {
@@ -41,8 +61,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "100% Carbone",
+            "title": "Bleu",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -62,8 +82,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "100% Carbone",
+            "title": "Doré",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -83,8 +103,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "100% Carbone",
+            "title": "Vert",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -99,6 +119,7 @@
         }
       },
       "block_order": [
+        "image_mrU9Wz",
         "image_zkxH6C",
         "image_YUhiEW",
         "slide-1",
