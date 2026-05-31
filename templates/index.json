@@ -282,7 +282,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "content": "J'avais peur que les photos soient un peu trompeuses mais pas du tout. Très satisfait de mon achat.",
             "show_rating": false,
             "rating": 4
           }
@@ -292,7 +292,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Or share content about your promotion, offers...",
+            "content": "Reçue en quelques jours, emballage soigné et coque magnifique. Je recommande.",
             "show_rating": false,
             "rating": 4
           }
@@ -358,6 +358,13 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_T9UwVA": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -381,6 +388,7 @@
         }
       },
       "block_order": [
+        "item_T9UwVA",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2"
