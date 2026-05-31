@@ -277,41 +277,41 @@
     "press": {
       "type": "press",
       "blocks": {
-        "quote_KRpdrL": {
+        "quote_DweV9f": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Très bon rapport qualité-prix. La coque protège bien tout en restant fine.",
+            "author": "Emma L.",
+            "content": "Reçue en quelques jours, emballage soigné et coque magnifique. Je recommande.",
             "show_rating": true,
             "rating": 4
           }
         },
-        "16644243327ba53d2a-0": {
+        "quote_3bXNE9": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "Nathan M.",
             "content": "J'avais peur que les photos soient un peu trompeuses mais pas du tout. Très satisfait de mon achat.",
-            "show_rating": false,
+            "show_rating": true,
             "rating": 4
           }
         },
-        "16644243327ba53d2a-1": {
+        "quote_KRpdrL": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Reçue en quelques jours, emballage soigné et coque magnifique. Je recommande.",
-            "show_rating": false,
+            "author": "Léa M.",
+            "content": "Très bon rapport qualité-prix. La coque protège bien tout en restant fine.",
+            "show_rating": true,
             "rating": 4
           }
         }
       },
       "block_order": [
-        "quote_KRpdrL",
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "quote_DweV9f",
+        "quote_3bXNE9",
+        "quote_KRpdrL"
       ],
       "settings": {
         "full_width": true,
