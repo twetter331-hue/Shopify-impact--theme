@@ -277,6 +277,16 @@
     "press": {
       "type": "press",
       "blocks": {
+        "quote_KRpdrL": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Très bon rapport qualité-prix. La coque protège bien tout en restant fine.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
@@ -299,6 +309,7 @@
         }
       },
       "block_order": [
+        "quote_KRpdrL",
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1"
       ],
