@@ -289,7 +289,13 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "coque-en-carbone-dore-copie",
+          "coque-en-carbone-dore",
+          "coque-en-carbone-rouge",
+          "coque-en-carbone-verte",
+          "coque-en-carbone-violette"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
