@@ -244,16 +244,10 @@
     "rich_text_XGiCkt": {
       "type": "rich-text",
       "blocks": {
-        "subheading_teRefH": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_dRYhNd": {
           "type": "heading",
           "settings": {
-            "text": "Carbone",
+            "text": "Le Carbone",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -267,7 +261,6 @@
         }
       },
       "block_order": [
-        "subheading_teRefH",
         "heading_dRYhNd",
         "richtext_DJMWwh"
       ],
