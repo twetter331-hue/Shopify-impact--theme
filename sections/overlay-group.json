@@ -18,9 +18,9 @@
         "show_only_on_index": true,
         "show_only_for_visitors": true,
         "show_only_once": true,
-        "title": "Signup for our newsletter",
-        "button_text": "Subscribe",
-        "subtext": "Describe what your customers will receive when subscribing to your newsletter."
+        "title": "Recevez nos nouveautés et offres exclusives directement par e-mail.",
+        "button_text": "Abonnez-vous",
+        "subtext": "Rejoignez notre newsletter et recevez en avant-première nos nouveautés, offres exclusives et promotions réservées à notre communauté."
       }
     },
     "privacy-banner": {
