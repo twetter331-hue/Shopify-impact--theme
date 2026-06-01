@@ -230,36 +230,42 @@
         "text_color": ""
       }
     },
-    "impact-text": {
-      "type": "impact-text",
+    "multiple-images-with-text": {
+      "type": "multiple-images-with-text",
       "blocks": {
-        "1664424181b38582d5-0": {
+        "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "FIBRE DE CARBONE",
-            "content": "",
-            "button_text": "",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
+            "button_text": ""
+          }
+        },
+        "1664424486a2b084ab-1": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
           }
         }
       },
       "block_order": [
-        "1664424181b38582d5-0"
+        "1664424486a2b084ab-0",
+        "1664424486a2b084ab-1"
       ],
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "images_layout": "scattered",
+        "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
@@ -349,47 +355,6 @@
         "logo_item_border": ""
       }
     },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -447,10 +412,9 @@
     "slideshow",
     "featured-collection",
     "text_with_icons_TKnD3N",
-    "impact-text",
+    "multiple-images-with-text",
     "rich_text_XGiCkt",
     "press",
-    "multiple-images-with-text",
     "faq"
   ]
 }
