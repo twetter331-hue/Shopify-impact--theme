@@ -244,22 +244,10 @@
             "button_url": "",
             "button_text": ""
           }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
         }
       },
       "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
+        "1664424486a2b084ab-0"
       ],
       "settings": {
         "full_width": false,
