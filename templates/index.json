@@ -237,7 +237,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/coque_violette_ilu.png",
-            "image_rotation_degrees": 0,
+            "image_rotation_degrees": -6,
             "subheading": "",
             "title": "",
             "content": "<p>Conçue pour accompagner votre iPhone au quotidien, cette coque offre une protection efficace contre les rayures, les petits chocs et l'usure de tous les jours. Sa structure robuste aide à préserver votre appareil tout en conservant son élégance.</p><p>Légère et agréable en main, elle n'alourdit pas votre téléphone et garantit un confort d'utilisation optimal.</p>",
