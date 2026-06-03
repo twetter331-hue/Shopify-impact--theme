@@ -138,22 +138,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "scrolling_text_7nVM9J": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "-20% sur tout le site pendant 48h",
-        "text_size": "small",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#000000",
-        "text_gradient": ""
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -415,7 +399,6 @@
   },
   "order": [
     "slideshow",
-    "scrolling_text_7nVM9J",
     "featured-collection",
     "text_with_icons_TKnD3N",
     "multiple-images-with-text",
