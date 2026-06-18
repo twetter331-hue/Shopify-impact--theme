@@ -397,6 +397,57 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "178181191349658416": {
+      "type": "apps",
+      "blocks": {
+        "revoq_eu_withdrawal_button_widerrufsbutton_popup_button_NP7egL": {
+          "type": "shopify://apps/revoq-eu-withdrawal-button/blocks/widerrufsbutton-popup-button/019c3356-2775-7d52-b915-4b0f965005ae",
+          "settings": {
+            "trigger_label": "-",
+            "trigger_alignment": "center",
+            "trigger_width": "auto",
+            "trigger_button_size": "medium",
+            "trigger_button_variant": "filled",
+            "trigger_button_color": "#111827",
+            "trigger_button_text_color": "#ffffff",
+            "trigger_button_border_color": "#111827",
+            "trigger_button_border_width": 1,
+            "section_padding": 24,
+            "heading_text": "-",
+            "show_section_heading": true,
+            "show_subheading": true,
+            "subheading_text": "-",
+            "name_placeholder": "-",
+            "order_placeholder": "-",
+            "show_order_hint": true,
+            "show_email_hint": true,
+            "show_privacy_notice": true,
+            "text_color": "#111827",
+            "secondary_text_color": "#6b7280",
+            "card_shape": "rounded",
+            "input_shape": "rounded",
+            "button_color": "#111827",
+            "button_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "revoq_eu_withdrawal_button_widerrufsbutton_popup_button_NP7egL"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -406,6 +457,7 @@
     "multiple-images-with-text",
     "rich_text_XGiCkt",
     "press",
-    "faq"
+    "faq",
+    "178181191349658416"
   ]
 }
